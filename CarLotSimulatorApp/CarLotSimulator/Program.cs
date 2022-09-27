@@ -69,7 +69,7 @@ namespace CarLotSimulator
             foreach(var car in lot.Cars)
             {
                 Console.WriteLine($"Year: {car.Year} Make: {car.Make} Model: {car.Model}");
-                
+       
             }
         }
     }
